@@ -84,3 +84,37 @@ img{
 
 
 // footer
+#footer{
+    padding-top: 50px;
+    width: 100%;
+    height: 150px;
+    background-color: #eee;
+    font-size: 14px;
+    color: #696969;
+    .p1{
+        padding-bottom: 20px;
+        .s1{
+            float: left;
+            margin-left: 20px;
+        }
+        .s2{
+            float: right;
+            margin-right: 20px;
+            img{
+                width: 20px;
+                height: 20px;
+            }
+        }
+    }
+    .p2{
+        .s3{
+            float: left;
+            margin-left: 20px;
+        }
+        .s4{
+            float: right;
+            margin-right: 20px;
+        }
+    }
+    
+}

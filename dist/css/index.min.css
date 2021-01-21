@@ -97,6 +97,44 @@ img {
   display: block;
 }
 
+#footer {
+  padding-top: 50px;
+  width: 100%;
+  height: 150px;
+  background-color: #eee;
+  font-size: 14px;
+  color: #696969;
+}
+
+#footer .p1 {
+  padding-bottom: 20px;
+}
+
+#footer .p1 .s1 {
+  float: left;
+  margin-left: 20px;
+}
+
+#footer .p1 .s2 {
+  float: right;
+  margin-right: 20px;
+}
+
+#footer .p1 .s2 img {
+  width: 20px;
+  height: 20px;
+}
+
+#footer .p2 .s3 {
+  float: left;
+  margin-left: 20px;
+}
+
+#footer .p2 .s4 {
+  float: right;
+  margin-right: 20px;
+}
+
 .swiper-container {
   width: 100%;
   height: 630px;
